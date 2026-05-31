@@ -1,9 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working with <br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning React.Js  and Node.Js<br>💬 Ask me about Frontend Development<br>⚡ Fun fact I like designing frontend for websites
+
+🔭 I’m currently working on Machine Learning projects and strengthening my ML fundamentals
+
+🤝 I’m looking for help with Machine Learning, NLP, and Deep Learning
+
+🌱 I’m currently learning Machine Learning, Data Analysis, and Scikit-Learn
+
+💬 Ask me about Python, Machine Learning Basics, Frontend Development, and Data Analysis
+
+⚡ Fun fact: I enjoy turning real-world problems into ML projects and designing beautiful user interfaces
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senjuti-maitra-205612254/) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senjuti-maitra-205612254/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white)](https://github.com/Senjuti7)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=google-chrome&logoColor=white)](https://senjuti7.github.io/My-Portfolio-HTML-CSS-JS/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
